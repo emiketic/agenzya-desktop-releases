@@ -1,0 +1,1 @@
+# agenzya-desktop-releases
